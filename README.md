@@ -1,4 +1,4 @@
 # myrepo
 testing my setup
 adding a line
-This is a Line from RStudio
+This is a line from RStudio
